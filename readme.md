@@ -9,6 +9,8 @@
 
 [![alt text](./public/course-logo.png "Link para o treinamento")](https://www.udemy.com/course/react-com-mango/?referralCode=552F88858EAE76346C8B)
 
+[![alt text](./public/Architecture.png "Architecture")](./public/4Dev-CleanReact.drawio)
+
 ---
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/react-com-mango/?referralCode=552F88858EAE76346C8B)
@@ -57,7 +59,8 @@ O objetivo do treinamento é mostrar como criar um sistema em ReactJs utilizando
 * DDD
 * Reactive Programming
 * Responsive Layout
-* Conventional Commits
+* [JS Standards](https://standardjs.com/)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 * GitFlow
 * Modular Design
 * Dependency Diagrams
@@ -68,13 +71,14 @@ O objetivo do treinamento é mostrar como criar um sistema em ReactJs utilizando
 
 > ## Bibliotecas e Ferramentas
 
-* Typescript
+* [Typescript](https://www.typescriptlang.org/)
 * React
 * Recoil
-* React Testing Library
+* [React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 * React Router DOM
 * Cypress
-* Jest
+* [Jest](https://jestjs.io/)
+* [TS-Jest](https://www.npmjs.com/package/ts-jest)
 * Axios
 * Git
 * Webpack
@@ -83,9 +87,11 @@ O objetivo do treinamento é mostrar como criar um sistema em ReactJs utilizando
 * Travis CI
 * Faker
 * Coveralls
-* Husky
-* Lint Staged
-* Eslint
+* [Husky](https://www.npmjs.com/package/husky)
+* [Lint Staged](https://github.com/okonet/lint-staged)
+* [git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter)
+* [Eslint](https://eslint.org/)
+* [eslint-config-standard-with-typescript](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
 * Standard Javascript Style
 * React Flip Move
 
