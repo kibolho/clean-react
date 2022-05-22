@@ -8,7 +8,7 @@ const PublicRoute: React.FC<RouteProps> = (props: RouteProps) => {
   const { getCurrentAccount } = useRecoilValue(currentAccountState)
   return !getCurrentAccount()?.accessToken
     ? <Route {...props} />
-    : <Route {...props} component={() => <Redirect to="/login" />} />
+    : <Route {...props} component={() => <Redirect to="/" />} />
 }
 
 export default PublicRoute
